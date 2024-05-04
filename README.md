@@ -1,12 +1,23 @@
 Neutrino flavor evolution - Matter Neutrino Resonances (MNR)
 ====
 
-Description: ...
+## Requirements:
+- C++ compiler
+- [Boost library] (https://www.boost.org/)
+- OpenMP
+- Python, Matplotlib, NumPy
 
-ePrint: Reference: [ePrint:2403.15532](https://arxiv.org/abs/2403.15532)
+## Compiling and running:
+- Run ./chpc to compile
+- Run executable *.out
+- Outputs *.raw and *.sum are large files. Use the bash script datfiles.sh to slice the data into smaller *.dat files
+- Plot results with python potentials.py (see examples in /plots)
 
-Journal reference: [Ian Padilla-Gay et al JCAP05(2024)037](https://iopscience.iop.org/article/10.1088/1475-7516/2024/05/037)
+## ePrint reference: 
+[ePrint:2403.15532](https://arxiv.org/abs/2403.15532)
 
+## Journal reference: 
+[Ian Padilla-Gay et al JCAP05(2024)037](https://iopscience.iop.org/article/10.1088/1475-7516/2024/05/037)
 Results from [ERDA AstroNu Data Archive](https://sid.erda.dk/share_redirect/e2zTyjhG3B/index.html), see also Figures in the paper.
 
 ## Figures & animations that appear in my publication:
