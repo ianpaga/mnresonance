@@ -1,4 +1,4 @@
-Neutrino flavor evolution - Matter Neutrino Resonances (MNR)
+Neutrino flavor evolution - Matter neutrino resonances in neutron star mergers
 ====
 
 ## Requirements:
