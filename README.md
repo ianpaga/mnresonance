@@ -13,11 +13,8 @@ Neutrino flavor evolution - Matter neutrino resonances in neutron star mergers
 - Outputs *.raw and *.sum are large files. Use the bash script datfiles.sh to slice the data into smaller *.dat files
 - Plot results with python potentials.py (see examples in /plots)
 
-## ePrint reference: 
-[ePrint:2403.15532](https://arxiv.org/abs/2403.15532)
-
 ## Journal reference: 
-[Ian Padilla-Gay et al JCAP05(2024)037](https://iopscience.iop.org/article/10.1088/1475-7516/2024/05/037)
+[Ian Padilla-Gay et al JCAP05(2024)037](https://iopscience.iop.org/article/10.1088/1475-7516/2024/05/037), [ePrint:2403.15532](https://arxiv.org/abs/2403.15532)
 Results from [ERDA AstroNu Data Archive](https://sid.erda.dk/share_redirect/e2zTyjhG3B/index.html), see also Figures in the paper.
 
 ## Figures & animations that appear in my publication:
