@@ -3,7 +3,7 @@ Neutrino flavor evolution - Matter Neutrino Resonances (MNR)
 
 ## Requirements:
 - C++ compiler
-- [Boost library] (https://www.boost.org/)
+- [Boost Library](https://www.boost.org/)
 - OpenMP
 - Python, Matplotlib, NumPy
 
