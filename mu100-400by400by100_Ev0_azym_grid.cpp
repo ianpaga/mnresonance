@@ -26,7 +26,7 @@ using namespace std;
 using namespace boost::numeric::odeint;
 typedef std::vector< double> state_type;
 ofstream fp;
-#define costhslices 3000 //300
+#define costhslices 3000
 #define xslices 1
 #define yslices 1
 double theta=0.15;

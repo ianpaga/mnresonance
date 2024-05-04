@@ -11,11 +11,11 @@ matplotlib.rcParams['lines.linewidth'] = 1.5
 
 xslices=1
 yslices=1
-costhslices=3000 #10000 #300
+costhslices=3000 
 
 #dtheta=np.pi/300
 #dtheta=1.0
-dtheta=2.0/costhslices # this is really costhdarray but rename later...
+dtheta=2.0/costhslices
 
 
 time = np.genfromtxt("time.dat",delimiter='')
